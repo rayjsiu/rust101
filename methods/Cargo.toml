@@ -1,0 +1,6 @@
+[package]
+name = "methods"
+version = "0.1.0"
+authors = ["Raymond Siu <ray.siu@outlook.com>"]
+
+[dependencies]
