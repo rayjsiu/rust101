@@ -1,7 +1,6 @@
 [package]
-name = "minigrep"
+name = "functional"
 version = "0.1.0"
 authors = ["Raymond Siu <ray.siu@outlook.com>"]
 
 [dependencies]
-stopwatch = "0.0.7"
